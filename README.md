@@ -1,7 +1,7 @@
-#**Palindrome Number**
-##**Easy**
+# **Palindrome Number**
+## **Easy**
 
-###Description:
+### Description:
 Given an integer x, return true if x is a palindrome, and false otherwise.
 Example 1:
 
